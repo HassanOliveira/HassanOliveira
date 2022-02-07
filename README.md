@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @HassanOliveira
-- 👀 I’m interested in Javascript and Python
-- 🌱 I’m currently learning Javascript and Python
-- 💞️ I am looking to collaborate in whatever is possible and of my understanding!
-- 📫 Send me a email or message.
+## Olá, meu nome é Hassan Oliveira e esse é o meu repositório. Fique a vontade!
 
 <div align="center">
   <a href="https://github.com/HassanOliveira">

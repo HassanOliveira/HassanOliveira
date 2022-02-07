@@ -27,6 +27,6 @@
   <a href = "mailto:hassan_bittencourt@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hassanaboliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/HassanOliveira/HassanOliveira/blob/main/.github/workflows/snake_commits.yml)
+  ![Snake animation](https://github.com/HassanOliveira/HassanOliveira/blob/output/github-contribution-grid-snake.svg)
  
 </div>

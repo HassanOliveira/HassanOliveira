@@ -1,9 +1,9 @@
 ## Olá, meu nome é Hassan Oliveira e esse é o meu repositório. Fique a vontade!
 
-<ul type="square">
-  <li>Estudante de Engenharia Mecânica na UFRGS.</li>
-  <li>Meu primeiro contato foi com a linguagem C++.</li>
-  <li>"Nós somos quem escolhemos ser... Por isso, escolha!" - Homem Aranha.</li>
+<ul type="url">
+  <li>⚙️Estudante de Engenharia Mecânica na UFRGS.</li>
+  <li>👨‍💻Meu primeiro contato foi com a linguagem C++.</li>
+  <li>🎥"Nós somos quem escolhemos ser... Por isso, escolha!" - Homem Aranha.</li>
 </ul>
 <br>
 

@@ -1,5 +1,13 @@
 ## Olá, meu nome é Hassan Oliveira e esse é o meu repositório. Fique a vontade!
 
+<ul type="square">
+  <li>Estudante de Engenharia Mecânica na UFRGS.</li>
+  <li>Meu primeiro contato foi com a linguagem C++.</li>
+  <li>"Nós somos quem escolhemos ser... Por isso, escolha!" - Homem Aranha.</li>
+</ul>
+<br>
+
+
 <div align="center">
   <a href="https://github.com/HassanOliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HassanOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

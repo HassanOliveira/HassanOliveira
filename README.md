@@ -1,9 +1,9 @@
-## Olá, meu nome é Hassan Oliveira e esse é o meu repositório. Fique a vontade!
+## Hi, my name is Hassan Oliveira and this is my repository. Feel free!
 
 <ul type="url">
-  <li>⚙️ Estudante de Engenharia na École Centrale de Marseille.</li>
-  <li>👨‍💻 Meu primeiro contato foi com a linguagem C++.</li>
-  <li>🎥 "Nós somos quem escolhemos ser... Por isso, escolha!" - Homem Aranha.</li>
+  <li>⚙️ Engineering Student at the Ecole Centrale de Marseille.</li>
+  <li>👨‍💻 My first contact was with the C++ language.</li>
+  <li>🎥 "We are who we choose to be... So, choose!" - Spider Man.</li>
 </ul>
 <br>
 

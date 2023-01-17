@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 ## Hi, my name is Hassan Oliveira and this is my repository. Feel free!
 
 <ul type="url">
@@ -16,7 +17,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Hassan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Hassan-Jy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
-  <img align="center" alt="Hassan-Jy" height="30" width="40" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" class="devicon-django-plain">
+  <i align="center" alt="Hassan-Dj" height="30" width="40" class="devicon-django-plain colored"></i>
+  <img align="center" alt="Hassan-Dj" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
   <img align="center" alt="Hassan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Hassan-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="right" alt="Hassan-pic" height="180" style="max-width: 100%;padding-left: 0px; border-radius: 20px"src="https://media.discordapp.net/attachments/358679477863317510/940082148759728189/avatar.gif"/>

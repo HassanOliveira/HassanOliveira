@@ -14,12 +14,12 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Hassan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Hassan-Jy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="Hassan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Hassan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Hassan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Hassan-pic" height="180" style="max-width: 100%;padding-left: 0px; border-radius: 20px"src="https://media.discordapp.net/attachments/358679477863317510/940082148759728189/avatar.gif">
+  <img align="center" alt="Hassan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Hassan-Jy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
+  <img align="center" alt="Hassan-Dj" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+  <img align="center" alt="Hassan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Hassan-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="right" alt="Hassan-pic" height="180" style="max-width: 100%;padding-left: 0px; border-radius: 20px"src="https://media.discordapp.net/attachments/358679477863317510/940082148759728189/avatar.gif"/>
 </div>
   
   ##

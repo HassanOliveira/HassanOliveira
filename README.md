@@ -1,7 +1,7 @@
 ## Hi, my name is Hassan Oliveira and this is my repository. Feel free!
 
 <ul type="url">
-  <li>⚙️ Engineering Student at the Ecole Centrale de Marseille.</li>
+  <li>⚙️ Software Engineer from Ecole Centrale Marseille.</li>
   <li>👨‍💻 My first contact was with the C++ language.</li>
   <li>🎥 "We are who we choose to be... So, choose!" - Spider Man.</li>
 </ul>

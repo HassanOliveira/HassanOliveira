@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Hassan Augusto</h1>
+<h1 align="center">Olá 👋, sou Hassan Augusto</h1><br>
 <h3 align="center">Engenheiro de software que adora enfrentar desafios complexos e otimizar processos por meio de automação e inovação. Experiente em Python e DevOps, e sempre ansioso para aprender as últimas tecnologias.</h3>
 
 <ul type="url">
@@ -33,8 +33,8 @@
   <img alt="github-snake" src="https://github.com/HassanOliveira/HassanOliveira/blob/main/dist/github-snake.svg" />
 </picture>
 
-<div> 
-  <a href="https://www.instagram.com/hassan.augusto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
+  <a href="https://www.linkedin.com/in/hassanaboliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:hassan_bittencourt@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hassanaboliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/hassan.augusto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>

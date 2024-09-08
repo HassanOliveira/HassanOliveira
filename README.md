@@ -1,10 +1,16 @@
-<h1 align="center">Olá 👋, sou Hassan Augusto</h1><br>
-<h3 align="center">Engenheiro de software que adora enfrentar desafios complexos e otimizar processos por meio de automação e inovação. Experiente em Python e DevOps, e sempre ansioso para aprender as últimas tecnologias.</h3>
+<h1 align="center">Hello 👋, I'm Hassan Augusto</h1>
+<h4 align="center">
+  Software engineer who loves taking on complex challenges and optimizing processes through automation and innovation. Experienced in Python and DevOps, and always eager to learn the latest technologies.
+</h4>
 
-<ul type="url">
-  <li>⚙️ Software Engineer from Ecole Centrale Marseille.</li>
-  <li>👨‍💻 My first contact was with the C++ language.</li>
-  <li>🎥 "We are who we choose to be... So, choose!" - Spider Man.</li>
+<p align="center">
+  I completed a dual degree program, studying 4 years at <a href="https://www.ufrgs.br" target="_blank">UFRGS (Federal University of Rio Grande do Sul)</a> and 2 years at <a href="https://www.centrale-mediterranee.fr" target="_blank">ECM (École Centrale Méditerranée)</a>.
+</p>
+
+<ul>
+  <li>⚙️ Software Engineer specializing in backend development and DevOps solutions.</li>
+  <li>👨‍💻 Expertise in Python and DevOps tools like Docker, Kubernetes, Jenkins, and AWS for cloud solutions.</li>
+  <li>🚀 Passionate about automating workflows and optimizing system performance.</li>
 </ul>
 <br>
 

@@ -4,7 +4,7 @@
 </h4>
 
 <p align="center">
-  I completed a dual degree program, studying 4 years at <a href="https://www.ufrgs.br" target="_blank">UFRGS</a> and 2 years at <a href="https://www.centrale-mediterranee.fr" target="_blank">ECM</a>.
+  I completed a dual degree program in Engineering, studying 4 years at <a href="https://www.ufrgs.br" target="_blank">UFRGS</a> and 2 years at <a href="https://www.centrale-mediterranee.fr" target="_blank">ECM</a>.
 </p>
 
 <ul>

@@ -4,7 +4,7 @@
 </h4>
 
 <p align="center">
-  I completed a dual degree program, studying 4 years at <a href="https://www.ufrgs.br" target="_blank">UFRGS (Federal University of Rio Grande do Sul)</a> and 2 years at <a href="https://www.centrale-mediterranee.fr" target="_blank">ECM (École Centrale Méditerranée)</a>.
+  I completed a dual degree program, studying 4 years at <a href="https://www.ufrgs.br" target="_blank">UFRGS</a> and 2 years at <a href="https://www.centrale-mediterranee.fr" target="_blank">ECM</a>.
 </p>
 
 <ul>
